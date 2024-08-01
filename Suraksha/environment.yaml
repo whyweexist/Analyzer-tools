@@ -1,0 +1,20 @@
+name: stock  # Name of your environment
+
+channels:
+  - defaults  # Default conda channel
+  - conda-forge
+
+dependencies:
+  - python=3.10  # Specifying Python version
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - pip
+  - pip:
+    - yfinance
+    - pymc
+    - arviz
+    - plotly
+    - kaleido
+    - tqdm
