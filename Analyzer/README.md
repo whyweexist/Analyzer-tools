@@ -1,4 +1,4 @@
-# Asset News Sentiment Analyzer
+# Market Analyzer
 
 This application provides two sophisticated tools catering to sentiment analysis of financial assets and securities by using ChatGPT on Google search results and online news articles. You will just need an OpenAI API Key to get started and utilize the power of all the functionalities provided by this package, namely to fetch news articles, analyze their content, and produce insightful reports for investment and trading decisions.
 
@@ -139,16 +139,7 @@ Project has been published on pip
 pip install asset-sentiment-analyzer
 ```
 
-## Contributing
 
-If you would like to contribute to this project, please follow the guidelines below:
-
-- Fork the repository.
-- Create a new branch (git checkout -b feature-branch).
-- Make your changes.
-- Commit your changes (git commit -m 'Add new feature').
-- Push to the branch (git push origin feature-branch).
-- Open a pull request.
 
 ## License
 
