@@ -1,6 +1,6 @@
-# FinanceMasterApp
+# Expenser App
 
-FinanceMasterApp is a personal finance management application that helps users track expenses, manage budgets, gain financial insights, and receive personalized financial advice. The application is built using Flask and provides an interactive web interface.
+Expenser is a personal finance management application that helps users track expenses, manage budgets, gain financial insights, and receive personalized financial advice. The application is built using Flask and provides an interactive web interface.
 
 ## Features
 
