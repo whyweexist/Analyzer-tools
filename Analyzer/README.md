@@ -141,8 +141,4 @@ pip install asset-sentiment-analyzer
 
 
 
-## License
 
-This project is pioneered by SkyBlue Capital (Singapore), and is licensed under the Apache-2.0 License. See the LICENSE file for details.
-
-<img src="images/HBlack.png" alt="SBC Logo" width="190" height="55">
