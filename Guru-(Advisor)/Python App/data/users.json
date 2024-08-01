@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "user_001",
+        "username": "amit_sharma",
+        "password": "hashed_password_1",
+        "role": "admin"
+    },
+    {
+        "_id": "user_002",
+        "username": "rahul_singh",
+        "password": "hashed_password_2",
+        "role": "customer"
+    },
+    {
+        "_id": "user_003",
+        "username": "anita_desai",
+        "password": "hashed_password_3",
+        "role": "customer"
+    },
+    {
+        "_id": "user_004",
+        "username": "priya_verma",
+        "password": "hashed_password_4",
+        "role": "admin"
+    },
+    {
+        "_id": "user_005",
+        "username": "vijay_iyer",
+        "password": "hashed_password_5",
+        "role": "customer"
+    }
+]

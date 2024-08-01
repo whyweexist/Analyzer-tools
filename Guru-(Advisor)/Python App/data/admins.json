@@ -1,0 +1,16 @@
+[
+    {
+        "_id": "admin_001",
+        "user_id": "user_001",
+        "name": "Amit Sharma",
+        "email": "amit.sharma@bank.com",
+        "phone": "9876543210"
+    },
+    {
+        "_id": "admin_002",
+        "user_id": "user_004",
+        "name": "Priya Verma",
+        "email": "priya.verma@bank.com",
+        "phone": "8765432109"
+    }
+]

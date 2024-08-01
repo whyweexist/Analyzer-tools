@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "rahul_credit_score_2024_06",
+        "customer_id": "customer_001",
+        "credit_score": 600,
+        "evaluation_date": "2024-06-30",
+        "score_history": [
+            {
+                "date": "2024-06-30",
+                "score": 600
+            }
+        ]
+    },
+    {
+        "_id": "anita_credit_score_2024_06",
+        "customer_id": "customer_002",
+        "credit_score": 750,
+        "evaluation_date": "2024-06-30",
+        "score_history": 
+            {
+                "date": "2024-06-30",
+                "score": 750
+            }
+        
+    },
+    {
+        "_id": "vijay_credit_score_2024_06",
+        "customer_id": "customer_003",
+        "credit_score": 820,
+        "evaluation_date": "2024-06-30",
+        "score_history": 
+            {
+                "date": "2024-06-30",
+                "score": 820
+            }
+        
+    }
+]

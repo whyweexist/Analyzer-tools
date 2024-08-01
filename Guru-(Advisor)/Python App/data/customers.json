@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "customer_001",
+        "user_id": "user_002",
+        "name": "Rahul Singh",
+        "email": "rahul.singh@example.com",
+        "phone": "9123456789",
+        "address": {
+            "street": "12 MG Road",
+            "city": "Mumbai",
+            "state": "Maharashtra",
+            "zip": "400001"
+        },
+        "date_of_birth": "1980-01-01",
+        "employment_status": "employed",
+        "annual_income": 750000,
+        "loan_history": [],
+        "current_loans": []
+    },
+    {
+        "_id": "customer_002",
+        "user_id": "user_003",
+        "name": "Anita Desai",
+        "email": "anita.desai@example.com",
+        "phone": "9988776655",
+        "address": {
+            "street": "56 Lajpat Nagar",
+            "city": "New Delhi",
+            "state": "Delhi",
+            "zip": "110024"
+        },
+        "date_of_birth": "1990-02-02",
+        "employment_status": "self-employed",
+        "annual_income": 600000,
+        "loan_history": [],
+        "current_loans": []
+    },
+    {
+        "_id": "customer_003",
+        "user_id": "user_005",
+        "name": "Vijay Iyer",
+        "email": "vijay.iyer@example.com",
+        "phone": "9876501234",
+        "address": {
+            "street": "78 T Nagar",
+            "city": "Chennai",
+            "state": "Tamil Nadu",
+            "zip": "600017"
+        },
+        "date_of_birth": "1975-03-03",
+        "employment_status": "retired",
+        "annual_income": 400000,
+        "loan_history": [],
+        "current_loans": []
+    }
+]

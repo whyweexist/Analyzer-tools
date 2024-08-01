@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "inv_001",
+        "customer_id": "customer_001",
+        "investment_type": "Property Purchase",
+        "amount": 10000000,
+        "date": "2016-11-17",
+        "details": "This investment represents the purchase of a property."
+    },
+    {
+        "_id": "inv_007",
+        "customer_id": "customer_001",
+        "investment_type": "Bike",
+        "amount": 245000,
+        "date": "2020-10-05",
+        "details": "This investment represents the purchase of Royal Enfield Hunter in Delhi RTO."
+    }
+]

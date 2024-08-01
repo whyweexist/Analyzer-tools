@@ -1,0 +1,272 @@
+[
+    {
+        "_id": "trans_001",
+        "customer_id": "customer_001",
+        "amount": -12500,
+        "type": "expense",
+        "category": "rent",
+        "date": "2024-06-01",
+        "description": "Monthly rent payment"
+    },
+    {
+        "_id": "trans_002",
+        "customer_id": "customer_001",
+        "amount": 10000,
+        "type": "income",
+        "category": "salary",
+        "date": "2024-06-05",
+        "description": "Monthly salary credit"
+    },
+    {
+        "_id": "trans_003",
+        "customer_id": "customer_001",
+        "amount": -2000,
+        "type": "expense",
+        "category": "groceries",
+        "date": "2024-06-09",
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "_id": "trans_004",
+        "customer_id": "customer_001",
+        "amount": -300,
+        "type": "expense",
+        "category": "transportation",
+        "date": "2024-06-10",
+        "description": "Uber ride to office"
+    },
+    {
+        "_id": "trans_005",
+        "customer_id": "customer_001",
+        "amount": -2000,
+        "type": "expense",
+        "category": "groceries",
+        "date": "2024-06-16",
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "_id": "trans_006",
+        "customer_id": "customer_001",
+        "amount": -300,
+        "type": "expense",
+        "category": "transportation",
+        "date": "2024-06-17",
+        "description": "Uber ride to office"
+    },
+    {
+        "_id": "trans_007",
+        "customer_id": "customer_001",
+        "amount": -15000,
+        "type": "expense",
+        "category": "travel",
+        "date": "2024-06-18",
+        "description": "Flight tickets for vacation"
+    },
+    {
+        "_id": "trans_008",
+        "customer_id": "customer_001",
+        "amount": -2000,
+        "type": "expense",
+        "category": "groceries",
+        "date": "2024-06-23",
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "_id": "trans_009",
+        "customer_id": "customer_001",
+        "amount": -5000,
+        "type": "expense",
+        "category": "clothing",
+        "date": "2024-06-26",
+        "description": "Shopping for clothes"
+    },
+    {
+        "_id": "trans_010",
+        "customer_id": "customer_001",
+        "amount": -2000,
+        "type": "expense",
+        "category": "groceries",
+        "date": "2024-06-30",
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "_id": "trans_011",
+        "customer_id": "customer_002",
+        "amount": -15000,
+        "type": "expense",
+        "category": "home_loan_emi",
+        "date": "2024-06-01",
+        "description": "Monthly home loan EMI payment"
+    },
+    {
+        "_id": "trans_012",
+        "customer_id": "customer_002",
+        "amount": 60000,
+        "type": "income",
+        "category": "salary",
+        "date": "2024-06-05",
+        "description": "Monthly salary credit"
+    },
+    {
+        "_id": "trans_013",
+        "customer_id": "customer_002",
+        "amount": -2000,
+        "type": "expense",
+        "category": "groceries",
+        "date": "2024-06-09",
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "_id": "trans_014",
+        "customer_id": "customer_002",
+        "amount": -10000,
+        "type": "investment",
+        "category": "mutual_funds",
+        "date": "2024-06-12",
+        "description": "Monthly SIP in mutual funds"
+    },
+    {
+        "_id": "trans_015",
+        "customer_id": "customer_002",
+        "amount": -2000,
+        "type": "expense",
+        "category": "groceries",
+        "date": "2024-06-16",
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "_id": "trans_016",
+        "customer_id": "customer_002",
+        "amount": -5000,
+        "type": "investment",
+        "category": "stocks",
+        "date": "2024-06-19",
+        "description": "Purchase of stocks"
+    },
+    {
+        "_id": "trans_017",
+        "customer_id": "customer_002",
+        "amount": 2500,
+        "type": "income",
+        "category": "stocks",
+        "date": "2024-06-22",
+        "description": "Sale of stocks"
+    },
+    {
+        "_id": "trans_018",
+        "customer_id": "customer_002",
+        "amount": -2000,
+        "type": "expense",
+        "category": "groceries",
+        "date": "2024-06-23",
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "_id": "trans_019",
+        "customer_id": "customer_002",
+        "amount": -5000,
+        "type": "investment",
+        "category": "stocks",
+        "date": "2024-06-26",
+        "description": "Purchase of stocks"
+    },
+    {
+        "_id": "trans_020",
+        "customer_id": "customer_002",
+        "amount": -3000,
+        "type": "expense",
+        "category": "clothing",
+        "date": "2024-06-29",
+        "description": "Shopping for dresses"
+    },
+    {
+        "_id": "trans_021",
+        "customer_id": "customer_003",
+        "amount": 40000,
+        "type": "income",
+        "category": "salary",
+        "date": "2024-06-01",
+        "description": "Monthly salary credit"
+    },
+    {
+        "_id": "trans_022",
+        "customer_id": "customer_003",
+        "amount": 25000,
+        "type": "income",
+        "category": "rental_income",
+        "date": "2024-06-05",
+        "description": "Monthly rent from tenants"
+    },
+    {
+        "_id": "trans_023",
+        "customer_id": "customer_003",
+        "amount": 5000,
+        "type": "income",
+        "category": "dividends",
+        "date": "2024-06-10",
+        "description": "Dividends from stock investments"
+    },
+    {
+        "_id": "trans_024",
+        "customer_id": "customer_003",
+        "amount": -1500,
+        "type": "expense",
+        "category": "medical",
+        "date": "2024-06-12",
+        "description": "Doctor visit and prescriptions"
+    },
+    {
+        "_id": "trans_025",
+        "customer_id": "customer_003",
+        "amount": -2000,
+        "type": "expense",
+        "category": "groceries",
+        "date": "2024-06-15",
+        "description": "Monthly grocery shopping"
+    },
+    {
+        "_id": "trans_026",
+        "customer_id": "customer_003",
+        "amount": -500,
+        "type": "expense",
+        "category": "medical",
+        "date": "2024-06-18",
+        "description": "Medicine purchase"
+    },
+    {
+        "_id": "trans_027",
+        "customer_id": "customer_003",
+        "amount": -3000,
+        "type": "expense",
+        "category": "medical",
+        "date": "2024-06-20",
+        "description": "Hospital consultation"
+    },
+    {
+        "_id": "trans_028",
+        "customer_id": "customer_003",
+        "amount": -2000,
+        "type": "expense",
+        "category": "groceries",
+        "date": "2024-06-25",
+        "description": "Weekly grocery shopping"
+    },
+    {
+        "_id": "trans_029",
+        "customer_id": "customer_003",
+        "amount": -2500,
+        "type": "expense",
+        "category": "medical",
+        "date": "2024-06-28",
+        "description": "Prescription refill"
+    },
+    {
+        "_id": "trans_030",
+        "customer_id": "customer_003",
+        "amount": -2000,
+        "type": "expense",
+        "category": "groceries",
+        "date": "2024-06-30",
+        "description": "Monthly grocery shopping"
+    }
+]
