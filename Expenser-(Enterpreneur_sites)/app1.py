@@ -55,7 +55,7 @@ def verify_password(username, password):
     return None
 
 # Load and clean the data
-file_path = 'personal finance data 2.xlsx'  # Make sure the Excel file is in the same folder
+file_path = './personal finance data 2.xlsx'  # Make sure the Excel file is in the same folder
 data = pd.read_excel(file_path)
 data['Date / Time'] = pd.to_datetime(data['Date / Time']) # Convert to datetime
 data = data.dropna() # Drop rows with missing values
