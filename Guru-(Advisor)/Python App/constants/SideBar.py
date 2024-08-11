@@ -1,5 +1,5 @@
 
-title = "Personalized Financial Advisor"
+title = "Guru-Personalized Financial Advisor"
 
 description = """
 This personalized Financial Advisor bot aims to 🎯:
